@@ -4,8 +4,10 @@
 - Ability to call coffee shop
 - 2 views in 1! 
 
-#UITableView : to show the shops near user’s current location.
-#MapView : graphically show user’s locations and shops nenear by.
+--UITableView : to show the shops near user’s current location.
+--MapView : graphically show user’s locations and shops nenear by.
+
+
 ————things to need to be refined next version———
 * Code structure needs to be improved such as adding more isolation functions for better testing.
 * Call out MKAnnotationView can be customised to show the shops pictures as FourSquare API do  provide the image links for some shops
